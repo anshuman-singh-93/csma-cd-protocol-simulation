@@ -1,0 +1,14 @@
+C:\Users\IamRoot\Documents\Visual Studio 2015\Projects\aloha\csma_cd\bin\Debug\csma_cd.exe.config
+C:\Users\IamRoot\Documents\Visual Studio 2015\Projects\aloha\csma_cd\bin\Debug\csma_cd.exe
+C:\Users\IamRoot\Documents\Visual Studio 2015\Projects\aloha\csma_cd\bin\Debug\csma_cd.pdb
+C:\Users\IamRoot\Documents\Visual Studio 2015\Projects\aloha\csma_cd\obj\Debug\csma_cd.csprojResolveAssemblyReference.cache
+C:\Users\IamRoot\Documents\Visual Studio 2015\Projects\aloha\csma_cd\obj\Debug\App.g.cs
+C:\Users\IamRoot\Documents\Visual Studio 2015\Projects\aloha\csma_cd\obj\Debug\csma_cd_MarkupCompile.cache
+C:\Users\IamRoot\Documents\Visual Studio 2015\Projects\aloha\csma_cd\obj\Debug\csma_cd_MarkupCompile.lref
+C:\Users\IamRoot\Documents\Visual Studio 2015\Projects\aloha\csma_cd\obj\Debug\csma_cd.g.resources
+C:\Users\IamRoot\Documents\Visual Studio 2015\Projects\aloha\csma_cd\obj\Debug\csma_cd.Properties.Resources.resources
+C:\Users\IamRoot\Documents\Visual Studio 2015\Projects\aloha\csma_cd\obj\Debug\csma_cd.csproj.GenerateResource.Cache
+C:\Users\IamRoot\Documents\Visual Studio 2015\Projects\aloha\csma_cd\obj\Debug\csma_cd.exe
+C:\Users\IamRoot\Documents\Visual Studio 2015\Projects\aloha\csma_cd\obj\Debug\csma_cd.pdb
+C:\Users\IamRoot\Documents\Visual Studio 2015\Projects\aloha\csma_cd\obj\Debug\MainWindow.g.cs
+C:\Users\IamRoot\Documents\Visual Studio 2015\Projects\aloha\csma_cd\obj\Debug\MainWindow.baml
